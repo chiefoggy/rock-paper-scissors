@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors Game
 
 This project is part of The Odin Project's Foundation Track, where I built an interactive Rock-Paper-Scissors game using HTML, CSS, and JavaScript. What started as a simple console-based game with prompts has evolved into a more feature-rich, user-friendly version with dynamic styling and full responsiveness for mobile devices.
-<br />Project Overview
+<br /><h2>Project Overview:
 
 Initially, the game had a simple pop-up interface with text-based prompts. In this version, I enhanced the game by adding a graphical user interface (UI), making it more engaging. I also incorporated features like score tracking and responsive design to ensure it looks good on any screen size.
 
